@@ -2,5 +2,7 @@
 
 void main(void)
 {
-  printf("Hello World !!");
+	foo();
+	printf("Applying patches !!\n");
+  	printf("Hello World !!\n");	
 }
